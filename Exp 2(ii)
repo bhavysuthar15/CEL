@@ -1,0 +1,10 @@
+%% Sums number from 1 to 100 using FOR loop.
+clear all;
+clc;
+n= input('enter the value of n:');
+sum=0;
+for i=1:n
+    sum=i+sum;
+
+end
+sum
