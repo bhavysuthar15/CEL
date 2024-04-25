@@ -24,7 +24,7 @@ T(end, :) = T_boundary;
 
 % Perform iterative solution
 num_iterations = 10…
-[9:42 am, 02/02/2024] Akshay Pdeu: % 2D Steady-State Conduction in a Copper Plate
+% 2D Steady-State Conduction in a Copper Plate
 % Using Finite Difference Method
 
 % Define parameters
